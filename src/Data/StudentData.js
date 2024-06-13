@@ -1,0 +1,68 @@
+const students = [
+	{
+		name: 'Sri Ram',
+		rollNo: 11,
+		tamil: 80,
+		english: 90,
+		science: 86,
+		maths: 97,
+		social: 76,
+	},
+	{
+		name: 'Ram',
+		rollNo: 16,
+		tamil: 90,
+		english: 97,
+		science: 100,
+		maths: 34,
+		social: 96,
+	},
+	{
+		name: 'Jatin',
+		rollNo: 18,
+		tamil: 60,
+		english: 90,
+		science: 63,
+		maths: 93,
+		social: 46,
+	},
+	{
+		name: 'Jittu',
+		rollNo: 20,
+		tamil: 79,
+		english: 80,
+		science: 91,
+		maths: 93,
+		social: 86,
+
+	},
+	{
+		name: 'Praveena',
+		rollNo: 80,
+		tamil: 90,
+		english: 80,
+		science: 86,
+		maths: 96,
+		social: 77,
+	},
+	{
+		name: 'Murugan',
+		rollNo: 81,
+		tamil: 90,
+		english: 40,
+		science: 80,
+		maths: 68,
+		social: 77,
+	},
+	{
+		name: 'Mani Kandan',
+		rollNo: 82,
+		tamil: 100,
+		english: 100,
+		science: 34,
+		maths: 100,
+		social: 100,
+	},
+];
+
+export default students;
